@@ -7,12 +7,130 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Mayor Eric Adams’ fiscal year 2025 preliminary budget plan, which slashes the New York City Department of Parks and Recreation budget by nearly $55 million, is set to take effect on July 1, resulting in the loss of hundreds of park jobs and exacerbating an already understaffed park system."
+          },
+          {
+            "type": "text",
+            "value": "West Harlem’s concentration of parks is 4 percent higher than the New York City average and includes Riverside Park, Morningside Park, Sakura Park, St. Nicholas Park, and other green spaces, including community gardens and playgrounds."
+          },
+          {
+            "type": "text",
+            "value": "Although the proposed budget has yet to officially take effect, Mayor Adams’ financial plan for fiscal year 2024, which reduced the parks department budget by 5 percent, has already eliminated around 200 park jobs in the city. The 2025 plan would result in the elimination of more than 600 park staff—many of whom are City Park workers who clean parks—and eliminate community park programs like Swim Safety Expansion and Community Gardens for Anti-gun violence."
+          },
+          {
+            "type": "text",
+            "value": "Advocates told Spectator the budget cuts highlight a larger history of park neglect."
+          },
+          {
+            "type": "text",
+            "value": "“There have been months where all the bathrooms and restrooms in the park have been closed, with no indication given of when they might be open or where you might find another restroom,” Brad Taylor, president and board chair of Friends of Morningside Park, said."
+          },
+          {
+            "type": "text",
+            "value": "According to Taylor, Ben Shupp, the sole gardener for Morningside Park, which stretches 13 blocks, was asked to clean the bathrooms in addition to his duties as a gardener. New York City has one gardener for every 133 acres of park land, while other major cities, like San Francisco and Chicago, have many fewer acres per gardener..."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "wafflechart.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "“I do all the cleaning all myself. … I’m only responsible for the gardens,” Shupp said."
+          },
+          {
+            "type": "text",
+            "value": "Shupp’s gardening assistant, who was employed under the Greenacre Rockefeller Foundation grant, used to help Shupp with additional tasks, like cleaning, but was laid off around a month and a half ago when the seasonal grant ended."
+          },
+          {
+            "type": "text",
+            "value": "“He’s young, and he has a four-year-old son, and he’s now unemployed and collecting unemployment,” Shupp said."
+          },
+          {
+            "type": "text",
+            "value": "Although Shupp’s assistant was not employed by the parks department, his unemployment highlights what advocates say is an unsustainable reliance on external funding and volunteers."
+          },
+          {
+            "type": "text",
+            "value": "Last year, Friends of Morningside Park recorded 8,700 hours of volunteer time, but Sherrise Palomino—the director of advocacy and programs at New Yorkers for Parks, an organization advocating for the prioritization of park funding—said volunteers cannot substitute trained staff who are experienced in maintaining the biodiversity of parks."
+          },
+          {
+            "type": "text",
+            "value": "Greater disparities are posed by large conservancies, which are private nonprofit organizations that often exist in more affluent neighborhoods. These conservancies work with the government to manage parks and are able to fundraise more money than public parks without conservancies, which makes them often able to hire more staff."
+          },
+          {
+            "type": "text",
+            "value": "Taylor has observed greater tree maintenance at Riverside Park, a park with a large conservancy, than at Morningside Park. However, despite Riverside Park Conservancy’s larger external funding, the park is still set to suffer from the upcoming budget cuts."
+          },
+          {
+            "type": "text",
+            "value": "“In June 2008, our district had approximately 79 CPWs, or City Parks Workers. This June, we will be lucky if we have 20 of them,” Merritt Birnbaum, president and CEO of Riverside Park Conservancy, said at the Committee on Parks and Recreation Preliminary Budget Hearing on March 21."
+          },
+          {
+            "type": "text",
+            "value": "Henry Herbert—a gardener for the parks department’s Manhattan horticulture, the team responsible for the maintenance of gardens in all 29 parks in Manhattan—has yet to be directly affected by the budget cuts but has continuously struggled with having to work overtime with inadequate compensation."
+          },
+          {
+            "type": "text",
+            "value": "“Where I live, the more you make, the higher rent, so it just feels like I don’t even need to work. I need to do what everybody else is doing. My rent would be $100, $200 if I just go on welfare,” Herbert said. “I’m working. I have no time to spend with my kids. I’m working hard, and then I got to worry about paying all these bills.”"
+          },
+          {
+            "type": "text",
+            "value": "New Yorkers for Parks has long advocated for equitable park funding and recently called on Mayor Adams to fulfill his campaign promise of allotting 1 percent of New York City’s budget to parks."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "linechart.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "“As Mayor Adams has said, the city is facing an extraordinarily challenging fiscal situation, and every agency has needed to find savings in order to balance the overall budget and Parks is no exception,” Kelsey Jean-Baptiste, press officer for the parks department, wrote in a statement to Spectator. “We will do everything we can to minimize impact to the cleanliness of our parks. Under this administration, we’ve made significant investments to improve our parks, and we remain committed to ensuring they remain clean, green, and safe.”"
+          },
+          {
+            "type": "text",
+            "value": "Despite historic understaffing, Shupp said his love of parks and the impact he sees they have on the community motivates him."
+          },
+          {
+            "type": "text",
+            "value": "“I learned early here that this isn’t about horticulture, primarily, it’s about people. It’s about people and people connecting to people and nature and building a real community,” Shupp said."
+          },
+          {
+            "type": "text",
+            "value": "By working as a gardener, Herbert has developed a connection to nature, likening plants and parks to life itself."
+          },
+          {
+            "type": "text",
+            "value": "“I learned to like it. As a kid, I just teared these garden beds up, throwing my basketball and then stomping on plants,” Herbert said. “Now I treat these plants like life, walk around it, because it’s really life.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>Staff Writer Tsehai Alfred</i> <i>can be contacted at </i><a href=\"mailto:tsehai.alfred@columbiaspectator.com\"><i>tsehai.alfred@columbiaspectator.com</i></a><i>.</i><i> Follow her on X </i><a href=\"https://twitter.com/TsehaiAlfred\"><i>@TsehaiAlfred</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Editor Laya Gollamudi</i> <i>can be contacted at </i><a href=\"mailto:laya.gollamudi@columbiaspectator.com\"><i>laya.gollamudi@columbiaspectator.com</i></a><i>. Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>.</i></b>"
+          }
+        ],
+        "headline": "West Harlem parks will be understaffed, poorly maintained due to Mayor Adams’ proposed budget cuts, advocates say",
+        "date": "April 2, 2024",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/tsehai-alfred/\">Tsehai Alfred</a>. Graphics by <a href=\"https://www.columbiaspectator.com/contributors/laya-gollamudi/\">Laya Gollamudi</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/NY54E4GFQNEPHCMSIKRBDBVBSA.jpg",
+        "cover_caption": "Columbia Daily Spectator",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1wW5VTfqrzrafdsDls9X6ODB6mWluIQK9pDToJDrp12c/edit"
       }
     }
   }
